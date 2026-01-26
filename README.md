@@ -20,11 +20,11 @@ Concluí o **Bootcamp de Analista de Dados da escola de tecnologia TripleTen**, 
 - ## 💻 Meus projetos
 Aqui você encontra meus projetos organizados do **mais recente ao mais antigo**:
 
-- [Projeto 14.1 – EDA: CallMeMaybe](https://github.com/ViniciusDeguar/data-analysis-project-14-EDA): Análise exploratória de dados em serviços de telefonia virtual, identificação de operadores ineficientes e testes estatísticos.
+- [Projeto 14.3 – SQL: Livros e Avaliações](https://github.com/ViniciusDeguar/data-analysis-project-14-SQL): Consultas SQL sobre livros, autores, editoras e avaliações para gerar insights sobre produto.
 
 - [Projeto 14.2 – Teste A/B: Loja Virtual](https://github.com/ViniciusDeguar/data-analysis-project-14-AB-Test): Avaliação de teste A/B de sistema de recomendação, análise de funil de conversão e comparação entre grupos.
 
-- [Projeto 14.3 – SQL: Livros e Avaliações](https://github.com/ViniciusDeguar/data-analysis-project-14-SQL): Consultas SQL sobre livros, autores, editoras e avaliações para gerar insights sobre produto.
+  [Projeto 14.1 – EDA: CallMeMaybe](https://github.com/ViniciusDeguar/data-analysis-project-14-EDA): Análise exploratória de dados em serviços de telefonia virtual, identificação de operadores ineficientes e testes estatísticos.
 
 - [Projeto 13 – Análise de Rotatividade de Clientes](https://github.com/ViniciusDeguar/data-analysis-project-13): Análise da rotatividade de clientes de uma rede de academia e desenvolvimento de estratégias baseadas em dados para aumentar a retenção.
 
@@ -60,7 +60,7 @@ Aqui você encontra meus projetos organizados do **mais recente ao mais antigo**
 
 ## 📫 Contato
 - 💼 LinkedIn: [clique aqui](https://www.linkedin.com/in/vin%C3%ADcius-deguar-n-de-meneses-ab777a387/)
-
+- 📧 E-mail: deguarvinicius@gmail.com
 
 
 
