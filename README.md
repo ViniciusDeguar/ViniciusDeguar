@@ -44,7 +44,7 @@ Aqui você encontra meus projetos organizados do **mais recente ao mais antigo**
 
 - [Projeto 05 – Dashboard de Veículos](https://github.com/ViniciusDeguar/data-analysis-project-05): Aplicativo web feito com Streamlit para análise de dados de veículos. O app permite a visualização e exploração do conjunto de dados, como a distribuição da quilometragem e a relação de preço e quilometragem.
 
-- [Projeto 04 – Análise Estatística de Dados](https://github.com/ViniciusDeguar/data-analysis-project-04): Estudo estatístico exploratório com base em uma amostra de 500 clientes de uma empresa de telefonia móvel para identificar qual plano é mais lucrativo.
+- [Projeto 04 – Análise Estatística de Dados](https://github.com/ViniciusDeguar/data-analysis-project-04): Estudo estatístico exploratório com base em uma amostra de 500 clientes de uma empresa de telefonia móvel para identificar qual plano de celular pré-pago é mais lucrativo.
 
 - [Projeto 03 – Manipulação de Dados](https://github.com/ViniciusDeguar/data-analysis-project-03): Análise de dados dos pedidos de uma empresa de entrega de supermercado, identificando padrões de comportamento de compra dos usuários e produtos mais populares.
 
