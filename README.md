@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-Me chamo Vinícius Deguar e sou um profissional da área de dados. Jornalista de formação acadêmica, resolvi migrar para a área de dados após desenvolver um fascínio por esse setor, no qual desenvolvi habilidades analíticas para auxílio nas tomadas de decisão. Como parte fundamental de minha jornada como profissional de dados, concluí o bootcamp de Analista de Dados da TripleTen, onde aprendi a manipular diversas ferramentas de análise, tratamento e visualização de dados.
+Sou profissional da área de dados, com formação acadêmica em Jornalismo e experiência em análise e interpretação de informações para suporte à tomada de decisão. Após transição para a área de dados, desenvolvi habilidades técnicas em manipulação, tratamento e visualização de dados, aplicando metodologias analíticas para gerar insights relevantes.
+
+Concluí o **Bootcamp de Analista de Dados da escola de tecnologia TripleTen**, onde adquiri conhecimentos em ferramentas como Python, SQL, Excel, Pandas, Matplotlib, Seaborn e Tableau, além de técnicas de análise exploratória, estatística aplicada e testes A/B. 
 
 ## Conhecimentos técnicos
 - **Python** (Pandas, NumPy)
