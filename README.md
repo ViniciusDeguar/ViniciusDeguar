@@ -20,9 +20,11 @@ Concluí o **Bootcamp de Analista de Dados da escola de tecnologia TripleTen**, 
 - ## 💻 Meus 14 projetos
 - Aqui você encontra meus projetos organizados do **mais recente ao mais antigo**:
 
-- [Projeto 14 – EDA: CallMeMaybe](https://github.com/ViniciusDeguar/data-analysis-project-14-EDA): Análise exploratória de dados em serviços de telefonia virtual, identificação de operadores ineficientes e testes estatísticos.
+- [Projeto 14.1 – EDA: CallMeMaybe](https://github.com/ViniciusDeguar/data-analysis-project-14-EDA): Análise exploratória de dados em serviços de telefonia virtual, identificação de operadores ineficientes e testes estatísticos.
 
-- [Projeto 14 – Teste A/B: Loja Virtual](https://github.com/ViniciusDeguar/data-analysis-project-14-AB-Test): Avaliação de teste A/B de sistema de recomendação, análise de funil de conversão e comparação entre grupos.
+- [Projeto 14.2 – Teste A/B: Loja Virtual](https://github.com/ViniciusDeguar/data-analysis-project-14-AB-Test): Avaliação de teste A/B de sistema de recomendação, análise de funil de conversão e comparação entre grupos.
+
+- [Projeto 14.3 – SQL: Livros e Avaliações](https://github.com/ViniciusDeguar/data-analysis-project-14-SQL): Consultas SQL sobre livros, autores, editoras e avaliações para gerar insights sobre produto.
 
 
 ## 📫 Contato
