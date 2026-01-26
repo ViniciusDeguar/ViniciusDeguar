@@ -34,7 +34,24 @@ Aqui você encontra meus projetos organizados do **mais recente ao mais antigo**
 
 - [Projeto 10 – Análise de Viabilidade de Abertura de Negócio](https://github.com/ViniciusDeguar/data-analysis-project-10): Análise do mercado de cafeterias em Los Angeles para atrair investidores.
 
-- [Projeto 09 – Priorização de Hipóteses e Anáilse de Teste A/B](https://github.com/ViniciusDeguar/data-analysis-project-09): Análise dos resultados de um teste A/B real, culminando em uma decisão de negócios orientada por dados.
+- [Projeto 09 – Priorização de Hipóteses e Análise de Teste A/B](https://github.com/ViniciusDeguar/data-analysis-project-09): Análise dos resultados de um teste A/B real, culminando em uma decisão de negócios orientada por dados.
+
+- [Projeto 08 – Análise de investimentos em Marketing](https://github.com/ViniciusDeguar/data-analysis-project-08): Análise completa do comportamento dos usuários, vendas e eficiência dos investimentos em marketing, utilizando dados históricos de 2017 a 2018.
+
+- [Projeto 07 – Análise de dados de corridas de táxi em Chicago](https://github.com/ViniciusDeguar/data-analysis-project-07): Análise de dados para compreender e descobrir padrões no comportamento dos passageiros para auxiliar uma nova empresa de compartilhamento de caronas.
+
+- [Projeto 06 – Análise de Dados de Vendas de Videogames](https://github.com/ViniciusDeguar/data-analysis-project-06): Identificação de padrões que determinam se um jogo de videogame é bem-sucedido ou não, permitindo identificar possíveis futuros sucessos e apoiar o planejamento de campanhas publicitárias mais eficazes.
+
+- [Projeto 05 – Dashboard de Veículos](https://github.com/ViniciusDeguar/data-analysis-project-05): Aplicativo web feito com Streamlit para análise de dados de veículos. O app permite a visualização e exploração do conjunto de dados, como a distribuição da quilometragem e a relação de preço e quilometragem.
+
+- [Projeto 04 – Análise Estatística de Dados](https://github.com/ViniciusDeguar/data-analysis-project-04): Estudo estatístico exploratório com base em uma amostra de 500 clientes de uma empresa de telefonia móvel para identificar qual plano é mais lucrativo.
+
+- [Projeto 03 – Manipulação de Dados](https://github.com/ViniciusDeguar/data-analysis-project-03): Análise de dados dos pedidos de uma empresa de entrega de supermercado, identificando padrões de comportamento de compra dos usuários e produtos mais populares.
+
+- [Projeto 02 – Análise de Dados e Hipótese](https://github.com/ViniciusDeguar/data-analysis-project-02): Análise dos dados de um serviço de streaming de música online para testar uma hipótese e comparar o comportamento dos usuários de duas localidades distintas.
+
+
+
 
 
 
