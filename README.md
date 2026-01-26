@@ -17,6 +17,12 @@ Concluí o **Bootcamp de Analista de Dados da escola de tecnologia TripleTen**, 
 - Monitoramento e análise de KPIs e métricas de desempenho
 - Construção de gráficos, dashboards e visualizações interativas
 
+- ## 💻 Meus 14 projetos
+- Aqui você encontra meus projetos organizados do **mais recente ao mais antigo**:
+ **[Projeto 14 – EDA: CallMeMaybe](https://github.com/ViniciusDeguar/data-analysis-project-14-EDA)
+  Análise exploratória de dados do serviço de telefonia virtual, identificação de operadores ineficientes e testes estatísticos.
+
+
 ## 📫 Contato
 - 💼 LinkedIn: [clique aqui](https://www.linkedin.com/in/vin%C3%ADcius-deguar-n-de-meneses-ab777a387/)
 
