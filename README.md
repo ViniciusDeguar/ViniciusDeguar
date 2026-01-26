@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bem-vindo ao meu perfil!
 
 Me chamo Vinícius Deguar e sou um profissional da área de dados, com formação acadêmica em Jornalismo e experiência em análise e interpretação de informações para suporte à tomada de decisão. Após transição para a área de dados, desenvolvi habilidades técnicas em manipulação, tratamento e visualização de dados, aplicando metodologias analíticas para gerar insights relevantes.
 
