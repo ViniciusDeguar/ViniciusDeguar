@@ -12,10 +12,10 @@ Concluí o **Bootcamp de Analista de Dados da escola de tecnologia TripleTen**, 
 - **Inglês avançado - Proficiência C2 (Cambridge English Proficiency)**
 
 ## Habilidades
-- **Pré-processamento, transformação e refinamento de dados**
-- **Realização de testes estatísticos**
-- **Análise de KPIs e outras métricas**
-- **Construção de gráficos e painéis para visualização de dados**
+- Pré-processamento, transformação e limpeza de dados
+- Realização de testes estatísticos e análise de hipóteses
+- Monitoramento e análise de KPIs e métricas de desempenho
+- Construção de gráficos, dashboards e visualizações interativas
 
 ## 📫 Contato
 - 💼 LinkedIn: [clique aqui](https://www.linkedin.com/in/vin%C3%ADcius-deguar-n-de-meneses-ab777a387/)
