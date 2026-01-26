@@ -6,10 +6,10 @@ Concluí o **Bootcamp de Analista de Dados da escola de tecnologia TripleTen**, 
 
 ## Conhecimentos técnicos
 - **Programação voltada para análise de dados:** Python (Pandas, NumPy)
-- **Visualização de Dados:** (Seaborn, Matplotlib, Plotly, Tableau)
-- **Banco de Dados e SQL:** SQL (consultas, joins, agregações)
+- **Visualização de dados:** Seaborn, Matplotlib, Plotly, Tableau
+- **Banco de dados e SQL:** SQL (consultas, joins, agregações)
 - **Análise Exploratória de Dados (EDA)**
-- **Inglês avançado - proficiência C2 (Cambridge English Proficiency)**
+- **Inglês avançado - Proficiência C2 (Cambridge English Proficiency)**
 
 ## Habilidades
 - **Pré-processamento, transformação e refinamento de dados**
