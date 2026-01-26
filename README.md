@@ -4,6 +4,9 @@ Sou profissional da área de dados, com formação acadêmica em Jornalismo e ex
 
 Concluí o **Bootcamp de Analista de Dados da escola de tecnologia TripleTen**, onde adquiri conhecimentos em ferramentas como Python, SQL, Excel, Pandas, Matplotlib, Seaborn e Tableau, além de técnicas de análise exploratória, estatística aplicada e testes A/B. 
 
+📂 Confira meus 14 projetos, incluindo análises exploratórias, testes A/B e soluções em SQL – todos com notebooks detalhados: [meus projetos] (https://github.com/ViniciusDeguar?tab=repositories)
+
+
 ## Conhecimentos técnicos
 - **Programação voltada para análise de dados:** Python (Pandas, NumPy)
 - **Visualização de dados:** Seaborn, Matplotlib, Plotly, Tableau
